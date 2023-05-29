@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Obad</h1>
-- 🌱 I’m currently learning **React**
+- 🌱 I'm currently pursuing my last year bachelor degree at Montpellier University.
+- 💻  I'm interested in Software Engineer.
 
 - 📫 How to reach me **Abdullah.s.obad@gmail.com**
 
