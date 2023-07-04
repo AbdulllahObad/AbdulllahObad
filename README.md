@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently pursuing my last year bachelor degree at Montpellier University.
 
-- 💻  I'm interested in Software Engineer.
+- 💻  I'm interested in Software Engineering.
 
 - 📫 How to reach me **Abdullah.s.obad@gmail.com**
 
