@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Obad</h1>
 
-- 🌱 I'm a recent Computer Science graduate from the University of Montpellier, France
-
-- 💻  Seeking an opportunity to kickstart my software engineering career with excitement.
 
 - 📫 How to reach me **Abdullah.s.obad@gmail.com**
 
