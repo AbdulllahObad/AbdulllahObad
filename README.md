@@ -18,9 +18,6 @@
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt="ASP.NET Core" width="40" height="40"/> 
   </a> 
-  <a href="https://blazor.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://blazor.net/assets/images/logo.png" alt="Blazor" width="40" height="40"/> 
-  </a> 
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
   </a> 
